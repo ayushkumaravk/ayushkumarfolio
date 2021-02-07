@@ -1,9 +1,9 @@
 ---
-title: Rohit Jain | About
+title: Ayush Kumar | About
 layout: description
 permalink: /about/
 ---
-Hi, I am Rohit jain currently final year undergradutate at [JIIT](http://www.jiit.ac.in/) with Computer Science and Engineering as major.
+Hi, I am Ayush Kumar currently first year undergradutate at [MU](http://www.mu.ac.in/) with BS in IT.
 
 I have a huge interest in creating web applications with managing all the aspects of it i.e. the frontend(Angular, React), backend(Flask-Rest-API), database(MongoDB, using ORM over SQL, graphql), hosting (gh-pages, aws, Heroku) and managing domain. Also, I have experience in creating Flutter applications using firebase as the backend service.
 
@@ -11,7 +11,7 @@ Further, I am experienced in using Docker and Docker-compose for packaging an ap
 
 I have interest in finance and love reading about it. I also created a trading bot for cryptocurrency and worked on an options strategy generator.
 
-Checkout my projects @[Github](https://github.com/rohitjain00)
+Checkout my projects @[Github](https://github.com/ayushkumaravk)
 
 ## Skills:
 
